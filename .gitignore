@@ -1,0 +1,5 @@
+# Coverage directory used by tools like istanbul
+coverage
+
+# Node modules directory 
+node_modules
